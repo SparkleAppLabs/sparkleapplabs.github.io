@@ -1,1 +1,1 @@
-# sparkleapplabs.github.io
+# SparkleDetox Privacy Policy
