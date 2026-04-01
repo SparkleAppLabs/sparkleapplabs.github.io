@@ -1,3 +1,7 @@
+layout: page
+title: "SparkleDetox — Privacy Policy"
+permalink: /sparkledetox-privacypolicy
+
 # SparkleDetox — Privacy Policy
 
 **Effective date:** April 1, 2026
